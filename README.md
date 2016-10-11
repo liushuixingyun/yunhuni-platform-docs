@@ -1,6 +1,9 @@
-# 云呼你 REST API
-云呼你 RESTful Web API (以下简称 REST API)，是 [yunhuni.com](http://yunhuni.com/) 提供的，由用户应用服务程序调用的开放接口。通过 REST API 调用，用户可以使用 [yunhuni.com](http://yunhuni.com/) 的一系列实时通信功能。
+# 介绍
 
-本文用于描述 [yunhuni.com](http://yunhuni.com/) REST API 的接口形态，参数定义，调用方法，格式约定。
+## 平台介绍
 
-[yunhuni.com](http://yunhuni.com/) 的开发者可参照该文档进行实时通信应用的开发。
+云呼你平台是一个全新一代的云计算PaaS通信能力开发平台，提供随心所欲、用户定制、安全稳定的在线通信服务，为各行业提供高品质的解决方案，轻松便捷地接入各种通讯能力，目前主要的业务包括语音通知、语音回拨、语音会议、语音验证码、自定义IVR。
+
+## 接入流程
+
+![](docs/readme/media/image1.png)
