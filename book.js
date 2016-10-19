@@ -10,7 +10,7 @@ module.exports = {
 	},
 	pluginsConfig: {
 		sitemap: {
-			hostname: "https://github.com/liushuixingyun/yunhuni-server-api-docs"
+			hostname: "https://github.com/liushuixingyun/yunhuni-platform-docs"
 		},
     "atoc": {
       "addClass": true,
