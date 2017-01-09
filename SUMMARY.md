@@ -2,10 +2,10 @@
 - [介绍](README.md)
 
 ### 平台使用手册
-- [注册协议](docs/1注册协议.md)
-- [管理控制台介绍](docs/2管理控制台介绍.md)
-- [开发者入驻说明](docs/3开发者入驻说明.md)
-- [应用审核规范](docs/5应用审核规范.md)
-- [认证审核说明](docs/6认证审核说明.md)
-- [发票审核说明](docs/7发票审核说明.md)
-- [IVR服务说明](docs/8IVR服务说明.md)
+- [注册协议](docs/registered.md)
+- [管理控制台介绍](docs/platform.md)
+- [开发者入驻说明](docs/developers.md)
+- [应用审核规范](docs/application.md)
+- [认证审核说明](docs/certification.md)
+- [发票审核说明](docs/invoice.md)
+- [IVR服务说明](docs/ivr.md)
