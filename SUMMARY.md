@@ -9,3 +9,4 @@
 - [认证审核说明](docs/certification.md)
 - [发票审核说明](docs/invoice.md)
 - [IVR服务说明](docs/ivr.md)
+- [模板使用说明](docs/template.md)
