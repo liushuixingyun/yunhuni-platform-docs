@@ -12,5 +12,5 @@
 * [发票审核说明](docs/invoice.md)
 * [IVR服务说明](docs/ivr.md)
 * [模板使用说明](docs/template.md)
-* [放音文件上传说明](docs/playvoice.md)
+* [放音文件上传说明](docs/playvoicefile.md)
 
